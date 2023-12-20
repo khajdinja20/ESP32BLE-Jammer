@@ -23,5 +23,3 @@ This project serves as a learning tool for understanding the principles and prac
 * The project utilized the ESP32 WeMos LOLIN32 microcontroller board.
 * The components include three NRF24L01 transceiver modules, a red LED, a button, a 500mAh battery, and a 330ohm resistor.
 * The code implementation is based on the BLE-jammer repository.
-
-## Wiring
